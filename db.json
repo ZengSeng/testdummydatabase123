@@ -1,0 +1,802 @@
+[
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_2",
+   "Item Description": "Unknown 1 Anti-Unknown 2 IgG (H+L)(peroxidase/HRP conjugated), 60 uL",
+   "Price": 1400,
+   "Id": 1
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_3",
+   "Item Description": "Unknown 1 Anti-Unknown 2 IgG (H+L)(peroxidase/HRP conjugated), 120 uL",
+   "Price": 9800,
+   "Id": 2
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_4",
+   "Item Description": "Unknown 1 Anti-Unknown 2 IgG (H+L)(peroxidase/HRP conjugated), 200 uL",
+   "Price": 8100,
+   "Id": 3
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_5",
+   "Item Description": "Unknown 2 Anti-Unknown 1 IgG (H+L)(peroxidase/HRP conjugated), 60 uL",
+   "Price": 1200,
+   "Id": 4
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_6",
+   "Item Description": "Unknown 2 Anti-Unknown 1 IgG (H+L)(peroxidase/HRP conjugated), 120 uL",
+   "Price": 10000,
+   "Id": 5
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_7",
+   "Item Description": "Unknown 2 Anti-Unknown 1 IgG (H+L)(peroxidase/HRP conjugated), 200 uL",
+   "Price": 6300,
+   "Id": 6
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_8",
+   "Item Description": "Unknown 2 Anti-Unknown 4 IgG(H+L)(peroxidase/HRP conjugated), 60 uL",
+   "Price": 2700,
+   "Id": 7
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_9",
+   "Item Description": "Unknown 2 Anti-Unknown 4 IgG(H+L)(peroxidase/HRP conjugated), 120 uL",
+   "Price": 2500,
+   "Id": 8
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_10",
+   "Item Description": "Unknown 2 Anti-Unknown 4 IgG(H+L)(peroxidase/HRP conjugated), 200 uL",
+   "Price": 7700,
+   "Id": 9
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_11",
+   "Item Description": "Total Protein (TP) Colorimetric Assay Kam (With standard, BCA method), 96T",
+   "Price": 5700,
+   "Id": 10
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_12",
+   "Item Description": "5 � SDS Loading Buffer, 5ml",
+   "Price": 5700,
+   "Id": 11
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_13",
+   "Item Description": "5 � SDS Loading Buffer, 10ml",
+   "Price": 10000,
+   "Id": 12
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_14",
+   "Item Description": "RIPA Lysis Buffer, 20mlELISA related",
+   "Price": 200,
+   "Id": 13
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_15",
+   "Item Description": "RIPA Lysis Buffer, 50mlELISA related",
+   "Price": 4000,
+   "Id": 14
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_16",
+   "Item Description": "RIPA Lysis Buffer, 100mlELISA related",
+   "Price": 1000,
+   "Id": 15
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_17",
+   "Item Description": "Pre-stained Protein Marker (10-180 kDa), 250uL",
+   "Price": 3300,
+   "Id": 16
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_18",
+   "Item Description": "Pre-stained Protein Marker (10-180 kDa), 2 x 250uL",
+   "Price": 4600,
+   "Id": 17
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_19",
+   "Item Description": "Pre-stained Protein Marker (10-180 kDa), 10 x250uL",
+   "Price": 3600,
+   "Id": 18
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_20",
+   "Item Description": "Electrophoresis Buffer (10 �), 100ml",
+   "Price": 6500,
+   "Id": 19
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_21",
+   "Item Description": "Electrophoresis Buffer (10 �), 200ml",
+   "Price": 6900,
+   "Id": 20
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_22",
+   "Item Description": "Electrophoresis Buffer (10 �), 500ml",
+   "Price": 1100,
+   "Id": 21
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 2",
+   "Item Code": "Item Type 1_Item Group 2_23",
+   "Item Description": "TEMED, 5ml",
+   "Price": 800,
+   "Id": 22
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_24",
+   "Item Description": "Ammonium Persulfate (APS), 10g",
+   "Price": 900,
+   "Id": 23
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_25",
+   "Item Description": "10% SDS Solution, 250ml",
+   "Price": 1400,
+   "Id": 24
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_26",
+   "Item Description": "Stacking Gel Buffer for PAGE, 1L",
+   "Price": 9900,
+   "Id": 25
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_27",
+   "Item Description": "Resolving Gel Buffer for PAGE, 1L",
+   "Price": 2900,
+   "Id": 26
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_28",
+   "Item Description": "30% Acrylamide/Bis Solution, 29:1, 500 ml",
+   "Price": 6100,
+   "Id": 27
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_29",
+   "Item Description": "Transmembrane Buffer (10 �), 200 ml",
+   "Price": 8400,
+   "Id": 28
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_30",
+   "Item Description": "Transmembrane Buffer (10 �), 500 ml",
+   "Price": 1200,
+   "Id": 29
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_31",
+   "Item Description": "PVDF Membrane (0.22 ?m), 8.5cm�6cm�10pc",
+   "Price": 8200,
+   "Id": 30
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_32",
+   "Item Description": "PVDF Membrane (0.22 ?m), 8.5cm�6cm�20pc",
+   "Price": 9800,
+   "Id": 31
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_33",
+   "Item Description": "PVDF Membrane (0.45 ?m), 8.5cm�6cm�10pc",
+   "Price": 7200,
+   "Id": 32
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_34",
+   "Item Description": "PVDF Membrane (0.45 ?m), 8.5cm�6cm�20pc",
+   "Price": 3900,
+   "Id": 33
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_35",
+   "Item Description": "Unknown 5 Serum Albumin (BSA), 98.0%, 25g",
+   "Price": 900,
+   "Id": 34
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_36",
+   "Item Description": "TBST Buffer (10 �), 200ml",
+   "Price": 4800,
+   "Id": 35
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_37",
+   "Item Description": "TBST Buffer (10 �), 500ml",
+   "Price": 5800,
+   "Id": 36
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_38",
+   "Item Description": "Excellent Chemiluminescent SubstUnknown 6e Detection Kam, 25ml",
+   "Price": 5300,
+   "Id": 37
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_39",
+   "Item Description": "Excellent Chemiluminescent SubstUnknown 6e Detection Kam, 50ml",
+   "Price": 6400,
+   "Id": 38
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_40",
+   "Item Description": "Excellent Chemiluminescent SubstUnknown 6e Detection Kam, 100ml",
+   "Price": 3000,
+   "Id": 39
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_41",
+   "Item Description": "Western Blot Detection Kam (PVDF membrane, 0.45 ?m)",
+   "Price": 2800,
+   "Id": 40
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 1_Item Group 1_42",
+   "Item Description": "Western Blot Detection Kam (PVDF membrane, 0.22 ?m)",
+   "Price": 500,
+   "Id": 41
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 2",
+   "Item Code": "Item Type 1_Item Group 2_43",
+   "Item Description": "Glycine, 1kg",
+   "Price": 5000,
+   "Id": 42
+ },
+ {
+   "Item Type": "Item Type 1",
+   "Item Group": "Item Group 2",
+   "Item Code": "Item Type 1_Item Group 2_44",
+   "Item Description": "Tris, 1kg",
+   "Price": 6200,
+   "Id": 43
+ },
+ {
+   "Item Type": "Item Type 2",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 2_Item Group 1_45",
+   "Item Description": "5�-Nucleotidase (5'-NT) Colorimetric Assay Kam (100Assy)",
+   "Price": 5200,
+   "Id": 44
+ },
+ {
+   "Item Type": "Item Type 2",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 2_Item Group 1_46",
+   "Item Description": "5�-Nucleotidase (5'-NT) Colorimetric Assay Kam (96T)",
+   "Price": 8600,
+   "Id": 45
+ },
+ {
+   "Item Type": "Item Type 2",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 2_Item Group 1_47",
+   "Item Description": "Acetylcholinesterase (AchE) Colorimetric Assay Kam (50Assy)",
+   "Price": 1900,
+   "Id": 46
+ },
+ {
+   "Item Type": "Item Type 2",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 2_Item Group 1_48",
+   "Item Description": "Acetylcholinesterase (AchE) Colorimetric Assay Kam (100Assy)",
+   "Price": 6300,
+   "Id": 47
+ },
+ {
+   "Item Type": "Item Type 2",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 2_Item Group 1_49",
+   "Item Description": "Acid Phosphatase (ACP) Colorimetric Assay Kam (100Assy)",
+   "Price": 6100,
+   "Id": 48
+ },
+ {
+   "Item Type": "Item Type 2",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 2_Item Group 1_50",
+   "Item Description": "Adenosine Deaminase (ADA) Colorimetric Assay Kam (100Assy)",
+   "Price": 4200,
+   "Id": 49
+ },
+ {
+   "Item Type": "Item Type 2",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 2_Item Group 1_51",
+   "Item Description": "Adenosinetriphosphatase (ATPase) Colorimetric Assay Kam (Cell membranes, mitochondria, microsomes samples) (100Assy)",
+   "Price": 2400,
+   "Id": 50
+ },
+ {
+   "Item Type": "Item Type 2",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 2_Item Group 1_52",
+   "Item Description": "Alanine Aminotransferase (ALT/GPT) Colorimetric Assay Kam (96T)",
+   "Price": 700,
+   "Id": 51
+ },
+ {
+   "Item Type": "Item Type 2",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 2_Item Group 1_53",
+   "Item Description": "Alanine Aminotransferase (ALT/GPT) Colorimetric Assay Kam (100Assy)",
+   "Price": 9200,
+   "Id": 52
+ },
+ {
+   "Item Type": "Item Type 2",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 2_Item Group 1_54",
+   "Item Description": "Albumin (ALB) Colorimetric Assay Kam (Bromocresol green method) (100 Assy)",
+   "Price": 4700,
+   "Id": 53
+ },
+ {
+   "Item Type": "Item Type 2",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 2_Item Group 1_55",
+   "Item Description": "Albumin (ALB) Colorimetric Assay Kam (Bromocresol green method) (96T)",
+   "Price": 6100,
+   "Id": 54
+ },
+ {
+   "Item Type": "Item Type 2",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 2_Item Group 1_56",
+   "Item Description": "Alkaline Phosphatase (ALP) Colorimetric Assay Kam (100 Assy)",
+   "Price": 7200,
+   "Id": 55
+ },
+ {
+   "Item Type": "Item Type 2",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 2_Item Group 1_57",
+   "Item Description": "Alkaline Phosphatase (ALP) Colorimetric Assay Kam (96T)",
+   "Price": 800,
+   "Id": 56
+ },
+ {
+   "Item Type": "Item Type 2",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 2_Item Group 1_58",
+   "Item Description": "Annexin V-FITC Apoptosis Detection Kam (50T)",
+   "Price": 6200,
+   "Id": 57
+ },
+ {
+   "Item Type": "Item Type 2",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 2_Item Group 1_59",
+   "Item Description": "Ascorbate Peroxidase (APX) Colorimetric Assay Kam (100Assy)",
+   "Price": 4300,
+   "Id": 58
+ },
+ {
+   "Item Type": "Item Type 2",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 2_Item Group 1_60",
+   "Item Description": "Aspartate Aminotransferase (AST/GOT) Colorimetric Assay Kam (96T)",
+   "Price": 2800,
+   "Id": 59
+ },
+ {
+   "Item Type": "Item Type 2",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 2_Item Group 1_61",
+   "Item Description": "ATP Colorimetric Assay Kam (100Assy)",
+   "Price": 1200,
+   "Id": 60
+ },
+ {
+   "Item Type": "Item Type 2",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 2_Item Group 1_62",
+   "Item Description": "ATPase Colorimetric Assay Kam (Red blood cells) (100Assy)",
+   "Price": 5200,
+   "Id": 61
+ },
+ {
+   "Item Type": "Item Type 2",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 2_Item Group 1_63",
+   "Item Description": "Blood Ammonia Colorimetric Assay Kam(100Assy)",
+   "Price": 9200,
+   "Id": 62
+ },
+ {
+   "Item Type": "Item Type 2",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 2_Item Group 1_64",
+   "Item Description": "Blood Ethanol (ALC) Colorimetric Assay Kam (40mL)",
+   "Price": 8200,
+   "Id": 63
+ },
+ {
+   "Item Type": "Item Type 2",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 2_Item Group 1_65",
+   "Item Description": "Ca2+-ATPase Colorimetric Assay Kam (Red blood cells) (100Assy)",
+   "Price": 6400,
+   "Id": 64
+ },
+ {
+   "Item Type": "Item Type 3",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 3_Item Group 1_66",
+   "Item Description": "Ca2+-ATPase Colorimetric Assay Kam (Tissue and cells) (100Assy)",
+   "Price": 7300,
+   "Id": 65
+ },
+ {
+   "Item Type": "Item Type 3",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 3_Item Group 1_67",
+   "Item Description": "Calcineurin (CaN) Colorimetric Assay Kam (100Assy)",
+   "Price": 6200,
+   "Id": 66
+ },
+ {
+   "Item Type": "Item Type 3",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 3_Item Group 1_68",
+   "Item Description": "Calcium (Ca) Colorimetric Assay Kam (With standard) (96T)",
+   "Price": 7500,
+   "Id": 67
+ },
+ {
+   "Item Type": "Item Type 3",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 3_Item Group 1_69",
+   "Item Description": "Caspase-3 Colorimetric Assay Kam (20T)",
+   "Price": 1000,
+   "Id": 68
+ },
+ {
+   "Item Type": "Item Type 3",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 3_Item Group 1_70",
+   "Item Description": "Catalase (CAT) Colorimetric Assay Kam (100Assy)",
+   "Price": 1300,
+   "Id": 69
+ },
+ {
+   "Item Type": "Item Type 3",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 3_Item Group 1_71",
+   "Item Description": "Catalase (CAT) Colorimetric Assay Kam (100 Assy)",
+   "Price": 500,
+   "Id": 70
+ },
+ {
+   "Item Type": "Item Type 3",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 3_Item Group 1_72",
+   "Item Description": "Chlorine Colorimetric Assay Kam (With standard) (96T)",
+   "Price": 3700,
+   "Id": 71
+ },
+ {
+   "Item Type": "Item Type 3",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 3_Item Group 1_73",
+   "Item Description": "Choline Acetyltransferase (ChAT) Colorimetric Assay Kam (Tissue samples) (40Assy)",
+   "Price": 500,
+   "Id": 72
+ },
+ {
+   "Item Type": "Item Type 3",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 3_Item Group 1_74",
+   "Item Description": "Cholinesterase (CHE) Colorimetric Assay Kam (50Assy)",
+   "Price": 9900,
+   "Id": 73
+ },
+ {
+   "Item Type": "Item Type 3",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 3_Item Group 1_75",
+   "Item Description": "Citric Acid (CA) Colorimetric Assay Kam (50Assy)",
+   "Price": 4900,
+   "Id": 74
+ },
+ {
+   "Item Type": "Item Type 3",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 3_Item Group 1_76",
+   "Item Description": "Copper blue protein (CP) Colorimetric Assay Kam (Serum samples, except chicken serum) (50Assy)",
+   "Price": 6800,
+   "Id": 75
+ },
+ {
+   "Item Type": "Item Type 3",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 3_Item Group 1_77",
+   "Item Description": "Copper-ATPase (Cu-ATPase) Colorimetric Assay Kam (100Assy)",
+   "Price": 3100,
+   "Id": 76
+ },
+ {
+   "Item Type": "Item Type 3",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 3_Item Group 1_78",
+   "Item Description": "Creatine kinase (CK) Colorimetric Assay Kam (50Assy)",
+   "Price": 2000,
+   "Id": 77
+ },
+ {
+   "Item Type": "Item Type 3",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 3_Item Group 1_79",
+   "Item Description": "Creatinine (Cr) Colorimetric Assay Kam (Picric acid method) (100Assy)",
+   "Price": 9300,
+   "Id": 78
+ },
+ {
+   "Item Type": "Item Type 3",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 3_Item Group 1_80",
+   "Item Description": "Creatinine (Cr) Colorimetric Assay Kam (Sarcosine oxidase) (96T)",
+   "Price": 600,
+   "Id": 79
+ },
+ {
+   "Item Type": "Item Type 3",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 3_Item Group 1_81",
+   "Item Description": "Cysteine (Cys) Colorimetric Assay Kam (50Assy)",
+   "Price": 4100,
+   "Id": 80
+ },
+ {
+   "Item Type": "Item Type 3",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 3_Item Group 1_82",
+   "Item Description": "D-Xylose Colorimetric Assay Kam (100Assy)",
+   "Price": 4600,
+   "Id": 81
+ },
+ {
+   "Item Type": "Item Type 3",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 3_Item Group 1_83",
+   "Item Description": "Direct bilirubin (D-BIL) Colorimetric Assay Kam (chemical oxidation) (96T)",
+   "Price": 2200,
+   "Id": 82
+ },
+ {
+   "Item Type": "Item Type 3",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 3_Item Group 1_84",
+   "Item Description": "Endogenous Carbon Monoxide (CO) Colorimetric Assay Kam (Serum and plasma) (100Assy)",
+   "Price": 1700,
+   "Id": 83
+ },
+ {
+   "Item Type": "Item Type 3",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 3_Item Group 1_85",
+   "Item Description": "Free Hemoglobin (FHb) Colorimetric Assay Kam (50Assy)",
+   "Price": 4300,
+   "Id": 84
+ },
+ {
+   "Item Type": "Item Type 3",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 3_Item Group 1_86",
+   "Item Description": "Fructose Colorimetric Assay Kam (50Assy)",
+   "Price": 7900,
+   "Id": 85
+ },
+ {
+   "Item Type": "Item Type 3",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 3_Item Group 1_87",
+   "Item Description": "GGT (?-Glutamyl) transpeptidase Colorimetric Assay Kam (100Assy)",
+   "Price": 3500,
+   "Id": 86
+ },
+ {
+   "Item Type": "Item Type 3",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 3_Item Group 1_88",
+   "Item Description": "Glucose (Glu) Colorimetric Assay Kam (100Assy)",
+   "Price": 5200,
+   "Id": 87
+ },
+ {
+   "Item Type": "Item Type 3",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 3_Item Group 1_89",
+   "Item Description": "Glucose-6-phosphate dehydrogenase (G-6-PD) Colorimetric Assay Kam (100Assy)",
+   "Price": 6800,
+   "Id": 88
+ },
+ {
+   "Item Type": "Item Type 3",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 3_Item Group 1_90",
+   "Item Description": "Glucose-6-phosphate Dehydrogenase (G-6-PD) Colorimetric Assay Kam (Unknown 6e method)",
+   "Price": 4900,
+   "Id": 89
+ },
+ {
+   "Item Type": "Item Type 3",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 3_Item Group 1_91",
+   "Item Description": "Glutamic Acid Colorimetric Assay Kam (30Assy)",
+   "Price": 8000,
+   "Id": 90
+ },
+ {
+   "Item Type": "Item Type 3",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 3_Item Group 1_92",
+   "Item Description": "Glutathione Peroxidase (GSH-PX) Colorimetric Assay Kam (100Assy)",
+   "Price": 7200,
+   "Id": 91
+ },
+ {
+   "Item Type": "Item Type 3",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 3_Item Group 1_93",
+   "Item Description": "Glutathione Peroxidase (GSH-PX) Colorimetric Assay Kam (100Assy)",
+   "Price": 9600,
+   "Id": 92
+ },
+ {
+   "Item Type": "Item Type 3",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 3_Item Group 1_94",
+   "Item Description": "Glutathione Reductase (GR) Colorimetric Assay Kam (100Assy)",
+   "Price": 4400,
+   "Id": 93
+ },
+ {
+   "Item Type": "Item Type 3",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 3_Item Group 1_95",
+   "Item Description": "Glutathione Reductase Activity Coefficient (GRAC) Colorimetric Assay Kam (100Assy)",
+   "Price": 10000,
+   "Id": 94
+ },
+ {
+   "Item Type": "Item Type 3",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 3_Item Group 1_96",
+   "Item Description": "Glutathione Reductases (GR) Colorimetric Assay Kam (96T)",
+   "Price": 4400,
+   "Id": 95
+ },
+ {
+   "Item Type": "Item Type 3",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 3_Item Group 1_97",
+   "Item Description": "Glutathione-S-transferase (GSH-ST) Colorimetric Assay Kam (100Assy)",
+   "Price": 2000,
+   "Id": 96
+ },
+ {
+   "Item Type": "Item Type 3",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 3_Item Group 1_98",
+   "Item Description": "Glutathione-S-transferase (GSH-ST) Colorimetric Assay Kam (100Assy)",
+   "Price": 8200,
+   "Id": 97
+ },
+ {
+   "Item Type": "Item Type 3",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 3_Item Group 1_99",
+   "Item Description": "Glycogen Colorimetric Assay Kam (Liver/Muscle samples) (100Assy)",
+   "Price": 5500,
+   "Id": 98
+ },
+ {
+   "Item Type": "Item Type 3",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 3_Item Group 1_100",
+   "Item Description": "Glycosylated Hemoglobin (GHb/HbA1c) Colorimetric Assay Kam (15Assy)",
+   "Price": 4800,
+   "Id": 99
+ },
+ {
+   "Item Type": "Item Type 3",
+   "Item Group": "Item Group 1",
+   "Item Code": "Item Type 3_Item Group 1_101",
+   "Item Description": "H+K+-ATPase Colorimetric Assay Kam (200Assy)",
+   "Price": 8600,
+   "Id": 100
+ }
+]
